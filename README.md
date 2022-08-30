@@ -12,6 +12,6 @@ I've been learning to code for 4-5 years and recently completed the full-stack e
 
 <a href="https://www.codewars.com/users/Jessewh" target="_blank" rel="noreferrer"><img src="https://www.codewars.com/users/Jessewh/badges/micro" width="108" height="36" alt="Codewars Kyu" /></a>
 
-### Socials
+### Contact
 
 <a href="https://www.linkedin.com/in/jessehardage" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
