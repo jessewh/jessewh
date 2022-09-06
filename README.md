@@ -1,6 +1,6 @@
 Hi 👋 I'm Jesse
 
-I've been learning to code for 4-5 years and recently completed the full-stack engineering immersive with Codeworks. Prior to that, I spent the last 12 years in investment banking and private equity, advising and investing in companies in the global energy industry. Since leaving the PE/VC firm that I helped found I have been working on web development and systematic trading. 
+After learning to code for 4-5 years, I recently completed the full-stack engineering immersive with Codeworks and am currently working on a certificate in Python for Algorithmic Trading with the Python Quants. Prior to all that, I spent 12 years in investment banking and private equity, advising and investing in companies in the global energy industry. Since leaving the PE/VC firm that I helped found I have been working on systematic trading and web development.
 
 * 🌍  I'm based in London, UK
 * 📈    I'm currently working on algo trading things in <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="14" height="14" alt="Python" /></a>
